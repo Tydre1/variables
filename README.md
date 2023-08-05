@@ -39,4 +39,4 @@ Contribuições são bem-vindas! Se você quiser melhorar este projeto, sinta-se
 
 ---
 
-Criado por [André Barbosa]([https://github.com/seu-nome](https://github.com/Tydre1)https://github.com/Tydre1)
+Criado por [André Barbosa](https://github.com/Tydre1)
